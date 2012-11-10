@@ -1,4 +1,4 @@
-[[Curso de Ruby on Rails]]
+Curso de Ruby on Rails
 =================
 
 Slides do curso de Ruby on Rails para iniciantes que dei pelo
